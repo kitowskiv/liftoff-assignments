@@ -3,8 +3,6 @@
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
 
-## Submission Instructions
-
 ### Overview
 My project will be a community where users post intentions (prayers/goals/hopes/dreams) that are tracked and organized in a way that allows for other users to easily find and interact with those intentions. The landing page will explain the basic idea behind focused intent, placebo, prayer etc. as well as instruct users on how to do a visualization exercise/meditation to help turn the intention into reality.  Data will be collected showing how many people focus/meditate on a given intention, how long the intent has been active, and the average time users focus on the intent.  Users will be able to view statistics on a particular intention, track how long it takes for the intent to be realized, or see the success rate of an individual user.
 
