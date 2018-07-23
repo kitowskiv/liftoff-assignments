@@ -24,13 +24,13 @@ This project was motivated by a desire to collect and analyze data pertaining to
 
 * Delete intentions: Users will be able to delete intentions.
 ### Technologies
-Java
-Spring Boot
-MySQL
-Thymeleaf templates
-Bootstrap
-Javascript
-Google Maps API
+* Java
+* Spring Boot
+* MySQL
+* Thymeleaf templates
+* Bootstrap
+* Javascript
+* Google Maps API
 ### What I'll Have to Learn
 I will need to learn Javascript and more bootstrap to bring the user interface up to my standards.  I will also need to learn the Google Maps API and figure out how I can use it to show a map of intentions. 
 ### Link to Project Tracker
