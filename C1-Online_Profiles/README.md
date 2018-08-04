@@ -11,6 +11,6 @@ https://github.com/kitowskiv
 ### LinkedIn
 https://www.linkedin.com/in/vince-kitowski-457782a0/
 ### Resume
+https://github.com/kitowskiv/liftoff-assignments/blob/master/C1-Online_Profiles/VincentKitowskiResume.pdf
 
-Uploaded above
 
