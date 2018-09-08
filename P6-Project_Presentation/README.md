@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-https://docs.google.com/presentation/d/14fLbLZyEpWYFAN1jPfe31861drgpYGgvn_Ch6ggdXqw/edit?usp=sharing
+https://github.com/kitowskiv/liftoff-assignments/blob/master/P6-Project_Presentation/Realize%20Presentation.pdf
